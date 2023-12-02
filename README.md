@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SachinDuplicate
-- 👀 I’m interested in Python and reactjs
-- 🌱 I’m currently learning reactjs
+- 👀 I’m interested in coding, and AI
+- 🌱 I’m currently learning
 - 📫 How to reach me (https://www.linkedin.com/in/sachin-budha-magar-5b2287213/)
 
 <!---
