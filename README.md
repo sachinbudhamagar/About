@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SachinBudhaMagar
-- 👀 Interested in coding, cyber security, and AI
 - 🌱 Learning
+- 👀 Interested in coding, cyber security, and AI
 - 📫 Reach via (https://www.linkedin.com/in/sachin-budha-magar-5b2287213/)
 
 <!---
