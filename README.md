@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SachinDuplicate
-- 👀 I’m interested in coding, and AI
-- 🌱 I’m currently learning
-- 📫 How to reach me (https://www.linkedin.com/in/sachin-budha-magar-5b2287213/)
+- 👋 Hi, I’m @SachinBudhaMagar
+- 👀 Interested in coding, cyber security, and AI
+- 🌱 Learning
+- 📫 Reach via (https://www.linkedin.com/in/sachin-budha-magar-5b2287213/)
 
 <!---
 SachinDuplicate/SachinDuplicate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
